@@ -25,7 +25,7 @@ if(x=="1"){xxx="/p/post1.html"}
 if(x=="2"){xxx="/p/post2.html"}
 if(x=="3"){xxx="/p/post3.html"}
 if(x=="4"){xxx="/p/post4.html"}
-if(x=="5"){xxx="/p/post5.html"}a_to_ve[i].href="https://pop-file.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/p/post5.html"}a_to_ve[i].href="https://www.infile.club"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
